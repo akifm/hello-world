@@ -1,2 +1,2 @@
 # hello-world
-Trial repository
+This is a test repository to see how things work around here
